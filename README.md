@@ -1,16 +1,18 @@
-### Hi there 👋
+### :wave: Hi, I'm Luna 
+<a href="https://velog.io/@luna_runa"><img src="https://img.shields.io/badge/velog.io/@luna_runa-20C997?style=flat&logo=Velog&logoColor=FFFFFF"/></a> 
 
-<!--
-**Luna-Runa/Luna-Runa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :sparkles: Used   
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=FFFFFF"/>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Runa&hide=Go&layout=compact)](https://github.com/Luna-Runa/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :office: Career
+##### [Alphacircle](https://alphacircle.co.kr) | Full Stack Web Developer | 2022.07.01 ~ 
+
+### :school: Education
+##### 순천향대학교 | 컴퓨터공학과 | 2016.03 ~ 2022.02
