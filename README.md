@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=FFFFFF"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Runa&hide=Go&layout=compact)](https://github.com/Luna-Runa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Runa&hide=Go&layout=compact&exclude_repo=Algorithm,LeetCode)](https://github.com/Luna-Runa/github-readme-stats)
 
 ### :office: Career
 ##### [Alphacircle](https://alphacircle.co.kr) | Full Stack Web Developer | 2022.07.01 ~ 
