@@ -12,7 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Runa&hide=Go&layout=compact&exclude_repo=Algorithm,LeetCode)](https://github.com/Luna-Runa/github-readme-stats)
 
 ### :office: Career
-##### [Alphacircle](https://alphacircle.co.kr) | Full Stack Web Developer | 2022.07.01 ~ 
+##### [Aimed](https://aimed.xyz) | Backend Developer | 2023.04.15 ~ 
+##### [Alphacircle](https://alphacircle.co.kr) | Web Full Stack Developer | 2022.07.01 ~ 2023.03.15
 
 ### :school: Education
 ##### 순천향대학교 | 컴퓨터공학과 | 2016.03 ~ 2022.02
