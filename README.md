@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luna-Runa&hide=Go&layout=compact&exclude_repo=Algorithm,LeetCode)](https://github.com/Luna-Runa/github-readme-stats)
 
 ### :office: Career
-##### [Aimed](https://aimed.xyz) | Backend Developer | 2023.04.10 ~ 
+##### [Aimed](https://aimed.xyz) | Backend Developer | 2023.04.10 ~ 2023.08.25
 ##### [Alphacircle](https://alphacircle.co.kr) | Web Full Stack Developer | 2022.07.01 ~ 2023.03.15
 
 ### :school: Education
