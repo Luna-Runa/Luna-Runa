@@ -16,4 +16,4 @@
 ##### [Alphacircle](https://alphacircle.co.kr) | Web Full Stack Developer | 2022.07.01 ~ 2023.03.15
 
 ### :school: Education
-##### 순천향대학교 | 컴퓨터공학과 | 2016.03 ~ 2022.02
+순천향대학교 | 컴퓨터공학과 | 2016.03 ~ 2022.02
